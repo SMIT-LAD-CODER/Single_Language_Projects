@@ -124,7 +124,8 @@ gcc main.c student.c -o sms
 
 ### 📖 Book Management using Object-Oriented Programming
 
-<img width="1536" height="1024" alt="Library Management Banner" src="YOUR_LIBRARY_BANNER_LINK">
+<img width="918" height="385" alt="WhatsApp Image 2026-06-16 at 23 47 07" src="https://github.com/user-attachments/assets/0808e414-931c-4204-a901-b20c15ba7cb0" />
+
 
 <br><br>
 
@@ -199,31 +200,37 @@ g++ main.cpp Library.cpp -o library
 
 ### 📚 Main Menu
 
-<img width="500" src="LIBRARY_MAIN_MENU_LINK">
+<img width="500" height="400" alt="Screenshot 2026-06-16 234845" src="https://github.com/user-attachments/assets/1827cfdc-b3aa-4001-89b4-4397afd29051" />
+
 
 <br><br>
 
 ### ➕ Add Book
 
-<img width="500" src="ADD_BOOK_LINK">
+
+<img width="500" height="400" alt="Screenshot 2026-06-16 234854" src="https://github.com/user-attachments/assets/44f692d0-0f98-4c9e-8aaa-22d217277021" />
+
 
 <br><br>
 
 ### 🔍 Search Book
 
-<img width="500" src="SEARCH_BOOK_LINK">
+<img width="500" height="400" alt="Screenshot 2026-06-16 234910" src="https://github.com/user-attachments/assets/d2749037-b834-4674-bbe1-c114941731c6" />
+
 
 <br><br>
 
 ### 📤 Issue Book
 
-<img width="500" src="ISSUE_BOOK_LINK">
+<img width="500" height="400" alt="Screenshot 2026-06-16 234933" src="https://github.com/user-attachments/assets/3eb5a5a6-b0b4-4abd-8f57-d7d89e4f1b4b" />
+
 
 <br><br>
 
 ### 📥 Return Book
 
-<img width="500" src="RETURN_BOOK_LINK">
+<img width="500" height="400" alt="Screenshot 2026-06-16 234950" src="https://github.com/user-attachments/assets/2c9f544f-e2a1-44d5-b172-ee45e4c20321" />
+
 
 </div>
 
