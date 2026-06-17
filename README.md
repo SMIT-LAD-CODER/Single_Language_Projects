@@ -235,13 +235,123 @@ g++ main.cpp Library.cpp -o library
 </div>
 
 ---
+# 💰 Project 3: Expense Tracker Web App (JavaScript)
+
+<div align="center">
+
+### 📊 Track Your Expenses. Manage Your Future.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84875dce-7b6a-4d7b-a531-0ffa7640baab" />
+
+<br><br>
+
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Expense%20Tracker-orange?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge)
+
+</div>
+
+## 🌟 Overview
+
+A responsive Expense Tracker Web Application built using HTML, CSS, and JavaScript. The application helps users track income and expenses while storing data locally in the browser.
+
+---
+
+## ✨ Features
+
+| Feature                | Description                   |
+| ---------------------- | ----------------------------- |
+| 💰 Add Income          | Record income transactions    |
+| 💸 Add Expense         | Record expense transactions   |
+| 📊 Dashboard           | View overall financial status |
+| 🧮 Balance Calculation | Automatic balance updates     |
+| 💾 Local Storage       | Save data in browser          |
+| 📱 Responsive Design   | Works on desktop and mobile   |
+
+---
+
+## 🛠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* DOM Manipulation
+* Local Storage API
+
+---
+
+## 📂 Project Structure
+
+```text
+ExpenseTracker/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🚀 Run
+
+Simply open:
+
+```text
+index.html
+```
+
+in your browser.
+
+---
+
+## 📸 Project Screenshots
+
+<div align="center">
+
+### 📊 Dashboard
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e51316a7-c9ad-47b9-8657-e8064e1a36f4" />
+
+<br><br>
+
+### 💰 Add Income
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/eee0e260-6ce5-47d5-be1b-2f8621de7270" />
+
+<br><br>
+
+### 💸 Add Expense
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9b8183be-162f-49b1-a479-694f9b5bc520" />
+
+<br><br>
+
+### 📈 Monthly Summary
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c0e392eb-cc80-4b92-89f5-c4105a531f97" />
+
+</div>
+
+---
+
+## 🎯 Learning Outcomes
+
+* Frontend Development
+* DOM Manipulation
+* Event Handling
+* Local Storage
+* Responsive Design
+* UI Development
+
+---
+
 
 # 🔗 Useful Links
 
 📜 Documentation: https://drive.google.com/drive/folders/15sCP5F17UsLtwmzIyrwT4oN6v_fsUPzg
 
 💼 LinkedIn Profile: https://www.linkedin.com/in/smit-lad-b2aaa135b
-
 
 
 ---
